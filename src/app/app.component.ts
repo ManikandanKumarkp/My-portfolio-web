@@ -8,9 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   Name :string ="Manikandan ";
-    
-  Function onclick(){
-    return Name;
-  }
-  onclick ();
+
 }
