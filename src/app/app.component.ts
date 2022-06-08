@@ -9,8 +9,8 @@ import { Component } from '@angular/core';
 export class AppComponent  {
   
     function click(){
-      let name:string ="Mani" ;
-console.log('name');
+      let Name:string ="Mani" ;
+console.log('Name');
     }
     
 }
