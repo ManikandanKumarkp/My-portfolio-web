@@ -8,9 +8,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   
-    Function  click(){
-      let Name:string ="Mani" ;
-console.log('Name');
+    Function  Click(){
+      
+console.log();
     }
     
 }
