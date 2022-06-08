@@ -7,5 +7,10 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-    Name : string = "Manikandan ";
+  
+    function click(){
+      let name:string ="Mani" ;
+console.log('name');
+    }
+    
 }
