@@ -7,10 +7,10 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  
-    Function  Click(){
-      
-console.log();
-    }
+  Name :string ="Manikandan ";
     
+  Function onclick(){
+    return Name;
+  }
+  onclick ();
 }
