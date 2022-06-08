@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   
-    function click(){
+    Function  click(){
       let Name:string ="Mani" ;
 console.log('Name');
     }
