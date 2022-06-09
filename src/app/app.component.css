@@ -10,9 +10,8 @@ li{
   padding:40px;
   height: 10px;
   width: 10px;
-  border:2px solid block;
+  border:2px solid transparent;
   box-sizing: border-box;
 border-radius: 40px;
-background-color: blue;
 
 }
