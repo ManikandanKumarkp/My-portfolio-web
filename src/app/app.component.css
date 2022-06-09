@@ -4,12 +4,14 @@ p {
 li{
   list-style:none;
   display: flexbox;
+  
 }
 .Profile{
   margin:2px;
   padding:40px;
   height: 10px;
   width: 10px;
+  color: azure;
   border:2px solid black;
   box-sizing: border-box;
 border-radius: 40px;
